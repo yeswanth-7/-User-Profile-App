@@ -1,8 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# User Profile App
 
-Currently, two official plugins are available:
+**User Profile App** is a React-based application that allows users to create, view, and manage a collection of user profiles. Users can easily add profiles with a name, email, and image, and remove them as needed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Add User Profiles:** Input user details to create new profiles.
+- **Display User Profiles:** View all added profiles in a visually appealing card format.
+- **Remove User Profiles:** Easily manage your collection by removing profiles.
+
+## Technologies Used
+
+- React
+- React Hook Form
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd user-profile-app
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+
